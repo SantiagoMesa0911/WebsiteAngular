@@ -1,0 +1,96 @@
+section.resume-section {
+  display: flex;
+  align-items: center;
+  margin-left: 250px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  max-width: 75rem;
+}
+section.resume-section .resume-section-content {
+  width: 100%;
+
+}
+.social-icons .social-icon-linkedin {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+ margin:  0.8rem;
+}
+.social-icons .social-icon-github {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+   margin:  0.8rem;
+}
+.social-icons .social-icon-twitter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+ margin:  0.8rem;
+}
+.social-icons .social-icon-facebook {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin:  0.8rem;
+}
+.social-icons .social-icon-instagram {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin:  0.8rem;
+}
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icon-linkedin:hover {
+  background-color: #0e76a8;
+}
+.social-icons .social-icon-github:hover {
+  background-color: #000000;
+}
+.social-icons .social-icon-twitter:hover {
+  background-color: #1DA1F2;
+}
+.social-icons .social-icon-facebook:hover {
+  background-color: #3b5998;
+}
+.social-icons .social-icon-instagram:hover {
+  background-color: #FCAF45;
+}
+
+.dev-icons {
+  font-size: 3rem;
+}
